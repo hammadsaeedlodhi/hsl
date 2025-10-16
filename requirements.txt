@@ -5,3 +5,6 @@ scikit-learn
 mysql-connector-python
 gunicorn==23.0.0
 flask
+joblib
+tensorflow
+simple-salesforce
